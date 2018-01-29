@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+<RomName>Nitrogen-OS</RomName>
+<VersionName>Nitrogen-OS-mido-20180129</VersionName>
+<VersionNumber type="integer">20180129</VersionNumber>
+<DirectUrl><![CDATA[]]></DirectUrl>
+<HttpUrl><![CDATA[]]></HttpUrl>
+<Android>8.1.0</Android>
+<CheckMD5 nil="true" />
+<FileSize type="integer"></FileSize>
+<Developer><![CDATA[Ravi Pingat]]></Developer>
+<WebsiteURL><![CDATA[https://plus.google.com/communities/111037372581335961267]]></WebsiteURL>
+<DonateURL><![CDATA[NoDonation]]></DonateURL>
+<Changelog>
+<![CDATA[
+]]> </Changelog>
+</ROM>
