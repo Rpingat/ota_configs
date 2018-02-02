@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>Nitrogen-OS</RomName>
-<VersionName>Nitrogen-OS-mido-20180129</VersionName>
-<VersionNumber type="integer">20180129</VersionNumber>
+<VersionName>Nitrogen-OS-mido-20180202</VersionName>
+<VersionNumber type="integer">20180202</VersionNumber>
 <DirectUrl><![CDATA[]]></DirectUrl>
 <HttpUrl><![CDATA[]]></HttpUrl>
 <Android>8.1.0</Android>
@@ -13,5 +13,6 @@
 <DonateURL><![CDATA[NoDonation]]></DonateURL>
 <Changelog>
 <![CDATA[
+*Initial Build
 ]]> </Changelog>
 </ROM>
