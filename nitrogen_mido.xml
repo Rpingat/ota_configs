@@ -3,4 +3,54 @@
 <RomName>Nitrogen-OS</RomName>
 <VersionName>Nitrogen-OS-mido-20180217</VersionName>
 <VersionNumber type="integer">20180217</VersionNumber>
-  
+<DirectUrl><![CDATA[https://androidfilehost.com/?fid=746010030569954578]]></DirectUrl>
+<HttpUrl><![CDATA[https://androidfilehost.com/?fid=746010030569954578]]></HttpUrl>
+<Android>8.1.0</Android>
+<CheckMD5>56426f21506b8599d20a9b409833ac7a</CheckMD5>
+<FileSize type="integer">480562380</FileSize>
+<Developer><![CDATA[Kakashi]]></Developer>
+<WebsiteURL><![CDATA[https://plus.google.com/communities/111037372581335961267]]></WebsiteURL>
+<DonateURL><![CDATA[NoDonation]]></DonateURL>
+<Changelog>
+<![CDATA[
+08/02/2018
+Cool stuffs
+OLD Changelog:
+All Nitrogen-Project Changes 
++ 
+My Changes:
+Fix Offline Charging.
+Fix Enable 
+low-power-mode on boot.(maybe the cause for dead batteries)
+Fix 60fps bug in Youtube 
+Personalizations:
+Animations: 
+-System Animations 
+-Listview Animations 
+-Listview Interpolers 
+-Scrolling Cache 
+MusicSetting: 
+-Audio Focus 
+-Launch Music player on connect Headset. 
+QuickSettings: 
+-Small Tiles Scroller 
+-Music Tile 
+NavigationBar: 
+-Pixel NavBar 
+Gestures: 
+-3Fingers Screenshot 
+Recents:
+-Add Membar to recents 
+Power Menu: 
+-Added Advance Reboot option 
+Notifications: 
+-Ticker(Disable HeadsUp to use ticker) 
+Settings: 
+Display: 
+-Extended Desktop 
+-Ambient Display 
+Lockscreen: 
+-Unlock with face without swipe.(op5t)
+Full Substratum Support
+]]> </Changelog>
+</ROM>
