@@ -8,14 +8,32 @@
 <Android>8.1.0</Android>
 <CheckMD5>56426f21506b8599d20a9b409833ac7a</CheckMD5>
 <FileSize type="integer">480562380</FileSize>
-<Developer><![CDATA[Kakashi]]></Developer>
+<Developer><![CDATA[Kakashi Sensei]]></Developer>
 <WebsiteURL><![CDATA[https://plus.google.com/communities/111037372581335961267]]></WebsiteURL>
 <DonateURL><![CDATA[NoDonation]]></DonateURL>
 <Changelog>
 <![CDATA[
+Update:- 17-02-208
 
- 
- 
+- Merged Feb security patch
+- Rootless subs support
+- Always on display
+- Lockscreen Visualizer
+- Ambient Visualizer (WIP)
+- Xiaomi Doze
+- Added PixelStyle
+- New snap cam with new UI
+- Omnivision sensor fixups
+- Statusbar clock and date customizations
+- Statusbar battery customizations
+- Added custom headers from omni
+- Option to display data disabled icon
+- Allow disabling FC dialogues
+- Dialer: Auto Proximity Speakerphone
+- Added Google Sound search tile
+- Merged latest CAF tag in kernel
+- Added wireguard support
+- And minor fixups
 
 ]]> </Changelog>
-</ROM
+</ROM>
