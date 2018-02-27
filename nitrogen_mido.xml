@@ -1,40 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ROM>
-<RomName>Nitrogen-OS</RomName>
-<VersionName>Nitrogen-OS-mido-20180217</VersionName>
-<VersionNumber type="integer">20180217</VersionNumber>
-<DirectUrl><![CDATA[https://androidfilehost.com/?fid=746010030569954578]]></DirectUrl>
-<HttpUrl><![CDATA[https://androidfilehost.com/?fid=746010030569954578]]></HttpUrl>
-<Android>8.1.0</Android>
-<CheckMD5>56426f21506b8599d20a9b409833ac7a</CheckMD5>
-<FileSize type="integer">480562380</FileSize>
-<Developer><![CDATA[Kakashi Sensei]]></Developer>
-<WebsiteURL><![CDATA[https://plus.google.com/communities/111037372581335961267]]></WebsiteURL>
-<DonateURL><![CDATA[NoDonation]]></DonateURL>
-<Changelog>
-<![CDATA[
-Update:- 17-02-2018
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <mido>
+            <Filename>Nitrogen-OS-O-Xtreme-mido-20180228.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download Nitrogen OS Xtreme build">https://sourceforge.net/projects/nitrogen-project/files/oneplus3/oneplus3_test/8.1/Nitrogen-OS-O-oneplus3-20180217.zip/download</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Nitrogen OS Xtreme changelog">https://sourceforge.net/projects/nitrogen-project/files/oneplus3/oneplus3_test/nitrogen_oneplus3-Changelog_17.txt/download</ChangelogUrl>
+            <PaypalUrl
+                id="paypal"
+                title="Donation"
+                description="Donate to developer">https://goo.gl/41iI5i</PaypalUrl>
+        </mido>
+    </Stable>
+</SlimOTA>
 
-- Merged Feb security patch
-- Rootless subs support
-- Always on display
-- Lockscreen Visualizer
-- Ambient Visualizer (WIP)
-- Xiaomi Doze
-- Added PixelStyle
-- New snap cam with new UI
-- Omnivision sensor fixups
-- Tissot Blobs
-- Statusbar clock and date customizations
-- Statusbar battery customizations
-- Added custom headers from omni
-- Option to display data disabled icon
-- Allow disabling FC dialogues
-- Dialer: Auto Proximity Speakerphone
-- Added Google Sound search tile
-- Merged latest CAF tag in kernel
-- Added wireguard support
-- And minor fixups
 
-]]> </Changelog>
-</ROM>
+
