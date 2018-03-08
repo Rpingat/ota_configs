@@ -2,15 +2,15 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <mido>
-            <Filename>Nitrogen-OS-O-Xtreme-mido-20180228.zip</Filename>
+            <Filename>Nitrogen-OS-O-mido-20180307.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download Nitrogen OS Xtreme build">https://sourceforge.net/projects/nitrogen-project/files/oneplus3/oneplus3_test/8.1/Nitrogen-OS-O-oneplus3-20180217.zip/download</RomUrl>
+                description="Download Nitrogen OS Xtreme build">https://sourceforge.net/projects/nitrogen-project/files/mido/Nitrogen-OS-O-mido-20180307.zip/download</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View Nitrogen OS Xtreme changelog">https://sourceforge.net/projects/nitrogen-project/files/oneplus3/oneplus3_test/nitrogen_oneplus3-Changelog_17.txt/download</ChangelogUrl>
+                description="View Nitrogen OS Xtreme changelog">https://sourceforge.net/projects/nitrogen-project/files/mido/nitrogen_mido-Changelog-20180307.txt/download</ChangelogUrl>
             <PaypalUrl
                 id="paypal"
                 title="Donation"
